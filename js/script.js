@@ -49,7 +49,7 @@ input.addEventListener('keydown', function (event)
     }
     else if (command === 'cat resume.txt')
     {
-        fetchFile('.\\resume.txt');
+        fetchFile('.\\files\\resume.txt');
     }
     else
     {
