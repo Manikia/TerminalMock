@@ -1,0 +1,83 @@
+Monika Angel
+📍 Los Angeles, CA
+📧 monikaangel.ma15@gmail.com
+🔗 GitHub: https://github.com/Manikia 
+🔗 LinkedIn: https://www.linkedin.com/in/monika-angel-abb134161/
+
+Professional Summary
+Passionate and driven Computer Science graduate from CSU Dominguez Hills with interests in Cloud Engineering, Data Analysis, and Web Development. Strong foundation in software development, quality assurance, and hands-on experience with both academic and industry-level projects. Excels in dynamic environments, always eager to explore new technologies.
+
+Education
+California State University – Dominguez Hills
+Bachelor of Science in Computer Science
+2017 – 2022
+
+Certifications
+AWS Certified Cloud Practitioner — Amazon Web Services (AWS)
+Issued Jul 2022 · Expires Jul 2025
+
+Achieving Advanced Insights with BigQuery — Coursera
+Issued Aug 2021
+
+Accenture AI Certification
+
+Accenture AWS Tech Certification
+
+Technical Skills
+Programming: Java, Python, HTML, CSS, SQL
+
+Tools: Git, BigQuery, ATAK, Mono Prices, Delta Printers
+
+Testing: Black Box Testing, Test Case Development
+
+Platforms: AWS, GitHub
+
+Languages: English (Fluent), Spanish (Native/Bilingual)
+
+Professional Experience
+Software Architect Analyst
+Accenture – Los Angeles, CA
+Aug 2022 – Present
+
+Involved in software architecture and development projects.
+
+Gained certifications in AWS and AI through internal programs.
+
+Software Quality Assurance Intern
+Internet Brands – El Segundo, CA
+Sep 2021 – Aug 2022
+
+Conducted black box testing for various web-based platforms.
+
+Developed and executed test cases under senior QA guidance to enhance user interaction quality.
+
+Fabrication Lab Technician 3
+CSU Dominguez Hills – CSUDH Campus
+Apr 2018 – Nov 2021
+
+Managed and operated machines such as Mono Prices, Delta Printers, Vinyl Cutters, Roland BN-20.
+
+Conducted STEM outreach, teaching K–12 students about practical applications of technology.
+
+Summer Research Intern
+U.S. Army CCDC Army Research Laboratory – Maryland
+Jun 2020 – Aug 2020
+
+Redesigned XBEE devices for hands-free communication.
+
+Contributed to Android Team Awareness Kit (ATAK) for mission-critical updates and soldier communication enhancements.
+
+Database Intern
+Tech Mahindra – El Segundo, CA
+Jun 2019 – Jul 2019
+
+Created a document scanning system using Python.
+
+Developed a searchable database to identify important keywords for data analysis.
+
+Organizations
+STEM Advantage Program (Nov 2017 – Present)
+Career mentorship and industry networking for STEM students.
+
+STEM Scholars (Jun 2017 – Present)
+GPA support program offering early coursework and textbooks to enhance student performance.
