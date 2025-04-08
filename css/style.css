@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     box-sizing:border-box;
 }
@@ -32,39 +31,4 @@ body {
 	display: flex;              /* Puts prompt and input side by side */
 	align-items: center; 
 	white-space: nowrap;        /* Prevents wrapping */
-=======
-*{
-    box-sizing:border-box;
-}
-
-body {
-	margin: 0;
-	background-color: #000;
-	color: #0f0;
-	font-family: monospace;
-	height: 100vh;
-	display: flex;
-	justify-content: left;
-	margin: 20px
-  }
-
-#input
-{
-	background:transparent;
-	color: #0f0;
-	border: none;
-	outline: none;
-	width: 888px;
-
-}
-#terminal
-{
-	overflow-x: auto;
-}
-#input-line
-{
-	display: flex;              /* Puts prompt and input side by side */
-	align-items: center; 
-	white-space: nowrap;        /* Prevents wrapping */
->>>>>>> 69a90bbb50e8d58f7c5b11d4b72fdc7b26f2c7b6
 }
